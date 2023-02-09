@@ -20,7 +20,7 @@ package org.apache.dolphinscheduler.api.audit;
 public interface AuditSubscriber {
 
     /**
-     * process the audit message
+     * process the audit message 审核信息
      *
      * @param message
      */
